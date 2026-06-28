@@ -16,7 +16,7 @@ Assets Used
 Packages Used
 - DOTween
 
-### 🎥 Youtube video link
+### 🎥 Youtube video link - https://youtu.be/E6EyYBe_4fI&t=4s
 <p align="center">
   <a href="https://youtu.be/E6EyYBe_4fI&t=4s">
     <img src="Thumbnail/YT_Thumbnail.png" width="700" alt="Watch on YouTube">

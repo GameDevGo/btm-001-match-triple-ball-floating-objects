@@ -17,4 +17,4 @@ Packages Used
 - DOTween
 
 ### Youtube video link
-[![Watch the video](https://img.youtube.com/vi/E6EyYBe_4fI&t=4s/maxresdefault.jpg)](https://youtu.be/E6EyYBe_4fI&t=4s)
+[![Watch the video](https://img.youtube.com/vi/E6EyYBe_4fI&t=4s/hqdefault.jpg)](https://youtu.be/E6EyYBe_4fI&t=4s)
